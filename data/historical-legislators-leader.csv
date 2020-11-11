@@ -1,0 +1,13 @@
+bioguide,title,chamber,start,end
+C001046,House Majority Leader,house,'2011-01-03','2014-08-01'
+C001046,House Minority Whip,house,'2009-01-03','2011-01-03'
+B000589,Speaker of the House,house,'2011-01-05','2013-01-03'
+B000589,Speaker of the House,house,'2013-01-03','2015-01-03'
+B000589,Speaker of the House,house,'2015-01-06','2015-10-28'
+R000146,Senate Majority Leader,senate,'2007-01-04','2009-01-06'
+R000146,Senate Majority Leader,senate,'2009-01-06','2011-01-05'
+R000146,Senate Majority Leader,senate,'2011-01-05','2013-01-03'
+R000146,Senate Majority Leader,senate,'2013-01-03','2015-01-03'
+R000146,Senate Minority Leader,senate,'2015-01-03','2017-01-03'
+R000570,Speaker of the House,house,'2015-10-28','2017-01-03'
+R000570,Speaker of the House,house,'2017-01-03','2019-01-03'
